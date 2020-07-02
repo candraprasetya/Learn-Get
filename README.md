@@ -1,16 +1,15 @@
-# learn_getx
+# Get State Management Flutter
 
-A new Flutter project.
+GetX will save hours of development, and will extract the maximum performance that your application can deliver, being easy for beginners, and accurate for experts. Navigate without context, open dialogs, snackbars or bottomsheets from anywhere in your code, Manage states and inject dependencies in an easy and practical way. Get is secure, stable, up-to-date, and offers a huge range of APIs that are not present on default framework.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone This Repo
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot (Light theme)
+<p float="left">
+  <img src="images/screenshot (1).jpeg" width="200" />
+  <img src="images/screenshot (2).jpeg" width="200" />
+  <img src="images/screenshot (3).jpeg" width="200" />
+  <img src="images/screenshot (4).jpeg" width="200" />
+</p>
