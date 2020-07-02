@@ -4,12 +4,19 @@ GetX will save hours of development, and will extract the maximum performance th
 
 ## Getting Started
 
-Clone This Repo
+> Clone This Repo 
+> Open VsCode or Android Studio
+> Open Project
+> Run flutter pub get
+> Run flutter run
 
-## Screenshot (Light theme)
+## Screenshot
 <p float="left">
   <img src="images/screenshot (1).jpeg" width="200" />
   <img src="images/screenshot (2).jpeg" width="200" />
   <img src="images/screenshot (3).jpeg" width="200" />
   <img src="images/screenshot (4).jpeg" width="200" />
 </p>
+
+
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5efe1cab173fae0012a3ce30&product=inline-follow-buttons" async="async"></script>
